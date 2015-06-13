@@ -1,0 +1,3 @@
+rails generate scaffold ticket name:string price:integer email:string use_tent:boolean remarks:text
+
+rails generate scaffold book book_name:string author:string price:integer publisher:string release_date:datetime isbn_code:integer
